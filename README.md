@@ -25,11 +25,12 @@ And also demonstration of turtlebot taking the different path when there is a re
     _unzip awscliv2.zip_
     _sudo ./aws/install_
 11. Custom Lex skills (Path with respect to cloned repo)
-    **~/voice-controlled-robot/Amazon lex.docx**
+    **~/voice-controlled-robot/Amazon lex.pdf**
 12. SLAM (Below path is with respect to cloned repo)
-    **~/voice-controlled-robot/SLAM Techniques.docx**
-13. AWS Lex-ros2 documentation(Below path is with respect to cloned repo)
-    **~/voice-controlled-robot/QDN-RB5-AWS-RoboMaker-Sample-App-Lex-ros2.docx**
+    **~/voice-controlled-robot/SLAM Techniques.pdf**
+13. Please refer https://github.com/quic/sample-apps-for-Qualcomm-Robotics-RB5-platform/tree/master/AWS-Samples/AWS-Samples-Application, 
+    https://github.com/quic/sample-apps-for-Qualcomm-Robotics-RB5-platform/tree/master/AWS-Samples/AWS-Samples-Application/lex-ros2
+    for documentation on ROS2 AWS Lex on RB5. documentation
 14. Android device API level 24 and above (Android 8 and above)
 
 
