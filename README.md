@@ -5,7 +5,6 @@
 This project is intended to demonstrate the integration of ROS2 navigation stack and AWS LEX service node on **Qualcomm Robotics platform RB5**. This project implements:
 
 i. Human voice command based navigation of turtlebot in a small house/apartment setting
-
 ii. Parking and Zone Restriction : Demonstration of turtlebot parking and zone restriction in a given map.
 
 ##### Prerequisites: 
