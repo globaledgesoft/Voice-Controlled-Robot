@@ -2,11 +2,9 @@
 
 
 ##### Introduction
-This project is intended to demonstrate the controlling of turtlebot through Human voice(AWS Lex, Mobile application)and navigating the turtlebot autonomously in a given map using navigation stack on RB5.
-Parking and Zone Restriction : Demonstration of turtlebot go and park in particular areas, taking the different path while there is “Restricted zone” in the given map.
-
-The main objective of this document is to control the turtlebot through Human voice, process the voice through AWS Lex , autonomously navigating the turtlebot in the given map using ROS navigation.
-And also demonstration of turtlebot taking the different path when there is a restricted zone in the way to reach the goal.
+This project is intended to demonstrate the integration of ROS2 navigation stack and AWS LEX service node on **Qualcomm Robotics platform RB5**. This project implements:
+i. Human voice command based navigation of turtlebot in a small house/apartment setting
+ii. Parking and Zone Restriction : Demonstration of turtlebot parking and zone restriction in a given map.
 
 ##### Prerequisites: 
 1. Please create a directory voice-controlled-robot  in remote PC and clone the repo from Gitlab
@@ -204,7 +202,8 @@ Specify the path of the map yaml file.’
 
 [Alt tag: ”Sending to Lex”]
 
-
+##### v. Watch Video.
+https://youtu.be/ZtFHROBx_8M
 
 
 
