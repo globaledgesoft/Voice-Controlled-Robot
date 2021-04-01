@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_i_p_addidng">IPAddidngActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="enter_ip_address">Please enter the IP address</string>
+    <string name="host_ip_address">hostIpAddress</string>
+    <string name="sending_to_lex">Please wait sending to lex</string>
+    <string name="sent_audio_file">Audio Sent</string>
+    <string name="server_unavailable">Server unavailable, Please try again later</string>
+</resources>

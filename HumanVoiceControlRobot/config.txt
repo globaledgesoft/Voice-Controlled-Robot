@@ -1,0 +1,7 @@
+INITIAL_POSE coordinates ={position_x="-0.04047487805207017",position_y="0.1050817565723752",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="0.824398943273913",orientation_w="1.0000000"}
+KITCHEN COORDINATES = {position_x="-1.1464536609905343",position_y="-1.5495483630677415",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="-0.8939650008262454",orientation_w=" 0.44813678413820385"}
+HALL COORDINATES = {position_x="-1.0859792704704259",position_y="3.9280814512835516",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="0.18976044004252748",orientation_w="0.9818304208950068"}
+ROOM COORDINATES = {position_x="-3.275145022120874",position_y="3.8847958556479854",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="0.18976044004252748",orientation_w="0.9818304208950068"}
+PARKING COORDINATES = {position_x="-4.1223604290367982",position_y="-0.6304626287007975",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="-0.9993269073440652",orientation_w="0.036684223559266135"}
+OUTDOOR COORDINATES = {position_x="1.6662714115112653",position_y="2.5556424804703683",position_z="0.0",orientation_x="0.0",orientation_y="0.0",orientation_z="0.05750677346292698",orientation_w="0.9983451161827175"}
+
