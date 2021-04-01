@@ -97,14 +97,14 @@ Alias_name : _TestBot_
    
 #### Usage Instructions
 
-##### ii. Resource Setup
+##### i. Resource Setup
 1. Fetch the coordinates from the  goal point (Kitchen, hall,outdoor,Room,initialposition,parking) by placing the robot in different places.
 2. Keep the turtlebot kitchen location,and check the "ros2 topic echo /tf", 
 3. Copy the coordinate(px,py,pz,ox,oy,oz) with respect "odom" to "basefootprint" value.
 4. Repeat the step 2 and 3 for different location in home/apartment.
 5. After fetching all goal point fetching, copy into config.txt file and save. (**~/Voice-Controlled-Robot/HumanVoiceControlRobot/config.txt**)
 
-##### iii. ROS2 and navigation stack setup
+##### ii. ROS2 and navigation stack setup
 
 1. Source all the bash files in all RB5 terminal
     ```
@@ -167,7 +167,7 @@ Specify the path of the map yaml file.’
     - Click on mic icon to start recording the audio 
     - Re-Click on the mic icon to stop and send the recording to the RB5 device.
 
-##### iv. Screenshots of application execution.
+##### iii. Screenshots of application execution.
 
 ![Bringup](Images/HumanVoice_Control_screenshot_1.png)
 
@@ -203,7 +203,7 @@ Specify the path of the map yaml file.’
 
 [Alt tag: ”Sending to Lex”]
 
-##### v. Watch Video.
+##### iv. Watch Video.
 https://youtu.be/ZtFHROBx_8M
 
 
