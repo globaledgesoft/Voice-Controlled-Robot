@@ -204,8 +204,7 @@ Specify the path of the map yaml file.’
 [Alt tag: ”Sending to Lex”]
 
 ##### iv. Watch Video.
-https://youtu.be/ZtFHROBx_8M
-
+https://youtu.be/JTNl5XOxIY4
 
 
 
